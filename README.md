@@ -42,5 +42,4 @@ See `/screenshots` folder for full dashboard evidence.
 - How Wazuh maps alerts to the MITRE ATT&CK framework automatically
 - Alert triage — reading rule IDs, severity levels, and tactics to understand what happened on an endpoint
 
-## Resume Bullet
-> Deployed a cloud-based Wazuh SIEM lab on AWS EC2; configured manager-agent architecture, simulated 5 attack techniques (brute force, privilege escalation, persistence, lateral movement), and analyzed 122 resulting alerts mapped to MITRE ATT&CK framework.
+
